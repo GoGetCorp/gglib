@@ -6,7 +6,7 @@ This Go v1.13 package is to be used in preforming the Go programming task
 
 ## Import
 
-You need to import the libarary as you have downloaded it above :)
+You need to import the library as you have downloaded it above :)
 This is an exercise as part of the candidates task
 
 ## Usage
