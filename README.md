@@ -1,4 +1,4 @@
-# Goget Task library
+# GoGet Task library
 
 This Go v1.13 package is to be used in preforming the Go programming task
 
@@ -16,4 +16,4 @@ errChannel := make(chan error)
 GenerateAnnoyingErrors(errChannel)
 ```
 
-OBS!: For the task the call to GenerateAnnoyingErrors must be called in a concurrent fashion :)
+OBS!: For the task the call to `GenerateAnnoyingErrors` must be called in a concurrent fashion :)
